@@ -140,13 +140,21 @@
         <h3 class="text-center m-4 text-light">समाजबंध कार्यकर्ता नोंदणी</h3>
       </div>
       <div class="row bg-danger">
-        <div class="col-sm text-center">
+        <div class="col-sm-6">
           <a
             href="https://forms.gle/cHHSRKmw4ZmXjG7i7"
             type="button"
             target="_blank"
             class="btn db btn-warning m-4 px-4"
             >Join Samajbandh</a
+          >
+        </div>
+        <div class="col-sm-6">
+          <a
+            href="#contactUs"
+            type="button"
+            class="btn db btn-warning m-4 px-4"
+            >Contact Us</a
           >
         </div>
       </div>
@@ -366,11 +374,13 @@
               claims of monetary demand by an individual or organization on
               behalf of our name, reach out to us
             </p>
+            <p>Please read detailed  <a href="tnc.php" target= "_blank">Terms and condition</a></p>
           </div>
         </div>
-        <div class="row">
+        <div class="row" id="contactUs">
           <div class="col-sm-5 p-5">
             <h3><u>Contact us</u></h3>
+            <h6>Legal entity name: SAMAJBANDH</h6>
             <div class="pb-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -384,7 +394,22 @@
                   d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"
                 />
               </svg>
-              <h6 class="d-inline">Hemdi, Raigad 402107</h6>
+              <h6 class="d-inline">Registered Address: C-805, Amulyam society, Dudulgaon, Moshi Alandi road, Pune, Pune, Maharashtra, PIN: 412105</h6>
+            </div>
+            <div class="pb-2">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="16"
+                height="16"
+                fill="currentColor"
+                class="bi bi-geo-alt-fill"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"
+                />
+              </svg>
+              <h6 class="d-inline">Operational Address: C-805, Amulyam society, Dudulgaon, Moshi Alandi road, Pune, Pune, Maharashtra, PIN: 412105</h6>
             </div>
             <div class="py-2">
               <svg
